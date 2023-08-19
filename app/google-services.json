@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938255203121",
+    "project_id": "entrevistadb-78eff",
+    "storage_bucket": "entrevistadb-78eff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938255203121:android:4f8e0319970fb23acc8e10",
+        "android_client_info": {
+          "package_name": "com.entrevista.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938255203121-13d9otbh8bls2s76js4ibjgb418dn0bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKU1ZlvpEjuIklljs1zt8vpnvNQ00AT5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938255203121-13d9otbh8bls2s76js4ibjgb418dn0bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
